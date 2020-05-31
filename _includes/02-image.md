@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Lighthouse in Scottland](https://i.ibb.co/zV5W2rK/lighthouse.jpg)
